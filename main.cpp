@@ -9,5 +9,13 @@ int main(){
 	// i_max = max_index(massive,size);
 	std :: cout << "i_min: " << i_min << "\ti_max: " << i_max << '\n';
 	
+	
+	int _sum{};
+	int begin{}, int end{};
+	// begin = max(i_max,i_min);
+	// end = min(i_max,i_min);
+	// _sum = sum(massive,size,begin, end);
+	std :: cout << "sum: " << sum << '\n';
+	
 	return 0;
 }
