@@ -30,5 +30,9 @@ int max_index(int* massive, int size) {
     }
     return maxIdx;
 }
-x
+
+int max(int left, int right);
+int min(int left, int right);
+int min_index(int* massive, int size);
+int max_index(int* massive, int size);
 
